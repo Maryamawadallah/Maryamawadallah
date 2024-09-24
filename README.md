@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, particularly its applications in healthcare and data analysis, as well as research in this field.
 - 🌱 I’m currently learning about data analysis and advanced machine learning techniques.
 - 💞️ I’m looking to collaborate on projects that involve data analysis and machine learning in healthcare.
-- 📫 How to reach me: You can connect with me via email at [your-email@example.com].
+- 📫 How to reach me: You can connect with me via email at maryam.awadallah21@gmail.com.
 - 😄 Pronouns: She/Her
 
 
